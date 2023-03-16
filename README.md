@@ -12,6 +12,11 @@
 - Webpack
 - Babel
 
+## Screenshot
+
+![Screenshot 2023-03-16 at 12 51 56 PM](https://user-images.githubusercontent.com/4713955/225622678-e2859585-0dd7-46a0-9e5d-afee84b53093.png)
+
+
 ## Getting Started
 
 - To get this project up and running, git clone the project on your file system.
